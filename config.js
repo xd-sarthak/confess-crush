@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'I knew it 🥰 Love you cutie 😘😘',
     messDesc: 'chummi',
     btnAccept: 'Okiiiii <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' // your messenger link, e.g. https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.imdb.com/name/nm1431656/mediaindex/' // your messenger link, e.g. https://www.facebook.com/messages/t/100014188333536
 };
